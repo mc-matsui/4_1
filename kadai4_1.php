@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>●課題4_1, レコードを挿入するページを作成する(INSERT)</title>
+<title> ●課題4_1, レコードを挿入するページを作成する(INSERT)</title>
 </head>
 <body>
 
